@@ -1,7 +1,7 @@
 # Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition
 
 **Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition**
-Nannan Qin, Xiangyun Hu*, Hengming Dai
+ Nannan Qin, Xiangyun Hu*, Hengming Dai
 
 **[[Paper](https://doi.org/10.1016/j.isprsjprs.2018.03.011)]**
 
