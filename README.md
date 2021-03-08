@@ -13,7 +13,7 @@ Terrain scene category is useful not only for some geographical or environmental
 ![img](Imgs/pipeline.png)
 
 # Experiment
-(1) Point Cloud for testing
+(1) Point Cloud in mixed scenes
 ![img](Imgs/pointcloud.png)
 
 (2) Recognition result
