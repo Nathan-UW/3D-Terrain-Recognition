@@ -17,10 +17,10 @@ Terrain scene category is useful not only for some geographical or environmental
 ![img](Imgs/pointcloud.png)
 
 (2) Recognition result
-![img](Imgs/recogniton_r1.png)
+![img](Imgs/recogniton_temp.png)
 
 (3) Recognition result
-![img](Imgs/recogniton_r2.png)
+![img](Imgs/recogniton_final.png)
 
 ## Citation
 Please consider citing our paper:
