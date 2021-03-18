@@ -23,7 +23,7 @@ Terrain scene category is useful not only for some geographical or environmental
 ![img](Imgs/recogniton_final.png)
 
 ## Citation
-Please consider citing our paper:
+If it is helpful for your work, please consider citing our paper:
 
     @article{QIN2018205,
         title = {Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition},
